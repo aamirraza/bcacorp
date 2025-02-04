@@ -55,13 +55,6 @@ const Team = () => {
       linkedIn: "https://www.linkedin.com/in/jarrod-membrey-a344216/",
       altText: "Jarrod Membrey, General Manager at BCA CORP"
     },
-    {
-      name: 'Nick Gupta',
-      title: 'Strategic Advisor',
-      imgSrc: '/images/man/nick .jpg',
-      linkedIn: "https://www.linkedin.com/in/nitin-gupta-80b48a39/",
-      altText: "Nick Gupta, Strategic Advisor at BCA CORP"
-    },
   ];
 
   return (
